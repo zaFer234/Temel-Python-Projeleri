@@ -1,0 +1,5 @@
+a = float(input("gerilim değeri giriniz"))
+b = float(input("direnç değeri giriniz"))
+c = (a/b)
+print("akım_şiddeti = ")
+print(c)
